@@ -5,21 +5,23 @@ body {
 h1 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-    text-decoration: underline;
-    font-weight: bolder;
-    color: red;
+  text-decoration: underline;
+  font-weight: bolder;
+  color: red;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff;
 }
-p{
-    font-size:medium;
-     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+p {
+  font-size: medium;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-    color: rgb(98, 0, 255);
-    font-weight: bold;
- text-shadow: 0 0 10px #fff,
-             0 0 20px #fff;
+  color: rgb(147, 80, 255);
+  font-weight: bold;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff;
 }
-.wallak{
-    font-size: xx-large;
-    color: rgb(255, 0, 0);
-    font-weight: bold;
+.wallak {
+  font-size: xx-large;
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff;
 }
+
