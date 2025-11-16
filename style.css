@@ -11,7 +11,7 @@ h1 {
   text-shadow: 0 0 10px #fff, 0 0 20px #fff;
 }
 p {
-  font-size: medium;
+  font-size: small;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   color: #9568ff;
@@ -24,4 +24,3 @@ p {
   font-weight: bold;
   text-shadow: 0 0 10px #fff, 0 0 20px #fff;
 }
-
