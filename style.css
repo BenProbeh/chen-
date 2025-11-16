@@ -1,0 +1,21 @@
+body {
+  background-image: url(bisli.jpg);
+  background-size: cover;
+}
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+p{
+    font-size: x-large;
+     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.wallak{
+    font-size: xx-large;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+
